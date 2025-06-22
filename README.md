@@ -64,7 +64,6 @@ From leading cross-functional teams and mentoring junior engineers, to designing
 
 If you're working on something exciting — a new product, a complex architecture, or a team that values craftsmanship and leadership — I'd love to hear from you.
 
-📧 [your.email@example.com]  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)   
-🐦 [@YourTwitterHandle]  
-🐙 [GitHub Profile](https://github.com/yourusername) 
+📧 [vanzidler@gmail.com]  
+🔗 [LinkedIn](https://linkedin.com/in/vanzidler)
+🐙 [GitHub Profile](https://github.com/vanzidler) 
