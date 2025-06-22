@@ -1,4 +1,4 @@
-# 👨‍💻 Senior Full-Stack Developer | Tech Lead | DevOps & Cloud Expert
+# 👨‍💻 Senior Full-Stack Developer | Tech Lead | DevOps & Cloud Expert | 📍 Armenia, Yerevan
 
 > 📍 *Building scalable systems, leading engineering teams, and shipping high-quality software since 2003.*
 
