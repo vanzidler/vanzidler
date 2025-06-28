@@ -1,69 +1,71 @@
-# 👨‍💻 Senior Full-Stack Developer | Tech Lead | DevOps & Cloud Expert | 📍 Armenia, Yerevan
+## 📬 Contact
+📍 Yerevan, Armenia  
+Let’s talk if you’re working on something challenging, ambitious, or just well-crafted.
 
-> 📍 *Building scalable systems, leading engineering teams, and shipping high-quality software since 2003.*
+📧 **Email**: vanzidler@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/vanzidler](https://linkedin.com/in/vanzidler)  
+🐙 **GitHub**: [github.com/vanzidler](https://github.com/vanzidler)
 
-I'm a seasoned **Go & frontend developer** and technical/team leader with over **15 years of experience** building distributed systems, cloud-native infrastructure, and high-performance applications across startups, enterprises, and Fortune 500 companies.
 
-🔧 I love writing clean, test-driven code, mentoring developers, designing resilient architectures, and automating everything from pipelines to production deployments.
+# 🧠 Tech Generalist | Backend-Focused Systems Architect | Cloud Automation Enthusiast  
 
----
 
-## 🔧 Core Skills
-
-- ✅ **Distributed Systems**: Go, Node.js, Python, PHP on Kubernetes
-- ✅ **APIs & Services**: REST, GraphQL, gRPC, WebSockets
-- ✅ **Microservices & Monoliths**: Design, optimization, profiling, observability
-- ✅ **Databases**: PostgreSQL, MySQL, Oracle, MongoDB, Redis, Elasticsearch
-- ✅ **DevOps & GitOps**: Docker, Kubernetes (CKA/CKAD/CKS), ArgoCD, Flux, Helm
-- ✅ **Infrastructure as Code**: Terraform, Ansible, AWS CDK, CloudFormation
-- ✅ **Cloud Platforms**: AWS (Pro), GCP, Azure
-- ✅ **CI/CD**: GitLab CI/CD, Jenkins, GitHub Actions
-- ✅ **Monitoring & Observability**: Prometheus, Grafana, ELK Stack, OpenTelemetry
-- ✅ **Agile Leadership**: Scrum, Kanban, Code Reviews, Technical Mentorship
+> *Solving problems with code, leading by example, and scaling infrastructure since the early 2000s.*
 
 ---
 
-## 💻 Tech I Work With
+With a background that fuses backend engineering, frontend fluency, and DevOps culture, I build reliable, cloud-native ecosystems across industries — from lean startups to global enterprises.
 
-### **Languages**
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### **Frameworks & Tools** 
-| Backend | Frontend | DevOps |
-|--------|---------|--------|
-| Fiber, Echo, Gin (Go) <br> NestJS, Express, Fastify (Node.js) <br> Django, Flask, FastAPI (Python) <br> Spring Boot, Micronaut (Java) | React, Next.js <br> Angular, Vue, Nuxt <br> Svelte, Quasar | Docker <br> Kubernetes <br> Terraform <br> Ansible <br> GitLab CI/CD |
+I'm especially passionate about automation, distributed systems, and fostering high-performing engineering teams. I believe in strong architecture, clean code, and continuous learning.
 
 ---
 
-## 🏁 Who Am I?
+## 🧩 Core Competencies
 
-I'm not just a developer — I'm an architect, mentor, and problem solver who thrives at the intersection of code, systems, and people.
-
-With deep expertise in both backend and frontend development, along with a strong foundation in DevOps and cloud infrastructure, I help teams build robust, scalable, and maintainable systems.
-
-From leading cross-functional teams and mentoring junior engineers, to designing microservices, optimizing databases, and deploying on Kubernetes clusters — I’ve done it all, and I’m always eager to learn more.
-
----
-
-## ❤️ What I Love
-
-- Clean, well-tested, readable codebases (Jest, Cypress, Playwright)
-- Developer toolchains and DX improvements
-- Team growth through mentorship and shared ownership
-- Elegant system design under real-world constraints
-- Modern frontend patterns with React, Angular, Vue, and Svelte
-- My family and the amazing people I get to work with 🙌
+- 🟢 **Concurrent Systems** – Go, Node.js, Python, PHP in containerized environments  
+- 🔌 **API & Messaging Layers** – REST, gRPC, GraphQL, WebSockets  
+- 🧱 **Architectures** – Microservices, modular monoliths, profiling, observability, fault tolerance  
+- 🗄️ **Datastores** – PostgreSQL, Redis, MongoDB, Oracle, Elasticsearch, MySQL  
+- ⚙️ **DevOps & Infra** – Docker, Kubernetes, Helm, ArgoCD, FluxCD, GitOps workflows  
+- 🌩️ **Cloud Experience** – AWS (Advanced), GCP, Azure  
+- 🚀 **CI/CD Pipelines** – GitHub Actions, GitLab CI, Jenkins  
+- 📈 **Monitoring** – Prometheus, OpenTelemetry, ELK, Grafana  
+- 🧠 **Team & Process** – Agile (Scrum/Kanban), code reviews, mentorship, documentation-driven development
 
 ---
 
-## 📬 Let's Connect!
+## 🔡 Tech Stack at a Glance
 
-If you're working on something exciting — a new product, a complex architecture, or a team that values craftsmanship and leadership — I'd love to hear from you.
+### 🛠️ Languages
+- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-📧 [vanzidler@gmail.com]  
-🔗 [LinkedIn](https://linkedin.com/in/vanzidler)
-🐙 [GitHub Profile](https://github.com/vanzidler) 
+### 🧰 Frameworks & Tools
+
+| Backend                             | Frontend                             | DevOps & Infra                  |
+|-------------------------------------|--------------------------------------|----------------------------------|
+| Fiber, Gin, Echo (Go)              | React, Vue, Angular, Svelte          | Docker, Kubernetes, Terraform    |
+| NestJS, Fastify, Express (Node.js) | Next.js, Nuxt, Quasar                | Ansible, GitLab CI, Helm, ArgoCD |
+| Django, FastAPI, Flask (Python)    |                                      | FluxCD, AWS CDK, CloudFormation  |
+
+---
+
+## 👁️‍🗨️ Who I Am
+
+Engineer, architect, and mentor — I work at the junction of system design, hands-on implementation, and team enablement. I've designed and scaled infrastructure, modernized codebases, and led teams through challenging transitions.
+
+---
+
+## 💬 What I Value
+
+- 🧼 Clean, maintainable, and well-tested systems  
+- 🧪 Strong developer experience (DX) and toolchains  
+- 🌱 Mentorship & collaborative learning  
+- 🧠 Pragmatic design decisions  
+- 🧩 Frontend innovation with React, Vue, Svelte, etc.  
+- 👨‍👩‍👧 My family and building with amazing teams
+
+---
+
