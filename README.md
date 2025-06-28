@@ -1,5 +1,5 @@
 ## 📬 Contact in 📍 Yerevan, Armenia
-Let’s talk if you’re working on something challenging, ambitious, or just well-crafted.
+Let’s talk if you’re working on something challenging, ambitious, or just well-crafted. Mostly working with private repos and contractors.
 
 📧 **Email**: vanzidler@gmail.com  
 🔗 **LinkedIn**: [linkedin.com/in/vanzidler](https://linkedin.com/in/vanzidler)  
