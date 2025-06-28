@@ -46,7 +46,7 @@ I'm especially passionate about automation, distributed systems, and fostering h
 | Backend                             | Frontend                             | DevOps & Infra                  |
 |-------------------------------------|--------------------------------------|----------------------------------|
 | Fiber, Gin, Echo (Go)              | React, Vue, Angular, Svelte          | Docker, Kubernetes, Terraform    |
-| NestJS, Fastify, Express (Node.js) | Next.js, Nuxt, Quasar                | Ansible, GitLab CI, Helm, ArgoCD |
+|                                    | Ansible, GitLab CI, Helm, ArgoCD |
 | Django, FastAPI, Flask (Python)    |                                      | FluxCD, AWS CDK, CloudFormation  |
 
 ---
