@@ -1,5 +1,4 @@
-## 📬 Contact
-📍 Yerevan, Armenia  
+## 📬 Contact in 📍 Yerevan, Armenia
 Let’s talk if you’re working on something challenging, ambitious, or just well-crafted.
 
 📧 **Email**: vanzidler@gmail.com  
